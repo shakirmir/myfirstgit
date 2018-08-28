@@ -1,0 +1,5 @@
+my location is hyderabad 
+quality thought 
+devops
+aws
+azure
